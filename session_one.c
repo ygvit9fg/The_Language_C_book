@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main()
-{
+{	
+	printf("Table Header\n");
 	float fahr, celsius;
 	int lower, upper, step;
 
